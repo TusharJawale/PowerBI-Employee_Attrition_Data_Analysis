@@ -2,7 +2,9 @@
 <br>
 <a href="kaggle datasets download -d rishikeshkonapure/hr-analytics-prediction">HR Analytics Dataset</a>
 <br>
-
+HR-Employee-Attrition.csv - contains the dataset 
+dashboard_p1.pbit - contains the PowerBI dashboard file 
+<br>
 Data Cleaning:
 <ol>
 <li>Deleting redundant columns - EmployeeCount, Over18, StandardHours</li>
@@ -16,17 +18,17 @@ Data Cleaning:
 <br>
 Data Visualization:
 <ol>
-<li></li>Plot a correlation map for all numeric variables
-<li></li>Overtime
-<li></li>Marital Status
-<li></li>Job Role
-<li></li>Gender
-<li></li>Education Field
-<li></li>Department
-<li></li>Business Travel
-<li></li>Relation between Overtime and Age
-<li></li>Total Working Years
-<li></li>Education Level
-<li></li>Number of Companies Worked
-<li></li>Distance from Home
+<li>Plot a correlation map for all numeric variables</li>
+<li>Overtime</li>
+<li>Marital Status</li>
+<li>Job Role</li>
+<li>Gender</li>
+<li>Education Field</li>
+<li>Department</li>
+<li>Business Travel</li>
+<li>Relation between Overtime and Age</li>
+<li>Total Working Years</li>
+<li>Education Level</li>
+<li>Number of Companies Worked</li>
+<li>Distance from Home</li>
 </ol>
