@@ -22,14 +22,13 @@ Data Visualization:
 <li>Plot a correlation map for all numeric variables</li>
 <li>Overtime</li>
 <li>Marital Status</li>
-<li>Job Role</li>
-<li>Gender</li>
+<li>Total Employees</li>
+<li>Attrition Count and Rate</li>
+<li>Average salary of attrited employees</li>
+<li>Average Working Years</li>
 <li>Education Field</li>
-<li>Department</li>
 <li>Business Travel</li>
-<li>Relation between Overtime and Age</li>
-<li>Total Working Years</li>
-<li>Education Level</li>
-<li>Number of Companies Worked</li>
-<li>Distance from Home</li>
+<li>Department</li>
+<li>Relation between Gender and Age</li>
+<li>Relation between Job Satisfaction and Job Role</li>
 </ol>
