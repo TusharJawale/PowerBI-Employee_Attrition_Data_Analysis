@@ -17,7 +17,6 @@ Data Cleaning:
 <li>Check for some more Transformations</li>
 </ol>
 <br>
-<br>
 Data Visualization:
 <ol>
 <li>Plot a correlation map for all numeric variables</li>
