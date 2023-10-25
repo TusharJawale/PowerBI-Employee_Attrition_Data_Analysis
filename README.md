@@ -3,7 +3,9 @@
 <a href="kaggle datasets download -d rishikeshkonapure/hr-analytics-prediction">HR Analytics Dataset</a>
 <br>
 HR-Employee-Attrition.csv - contains the dataset 
+<br>
 dashboard_p1.pbit - contains the PowerBI dashboard file 
+<br>
 <br>
 Data Cleaning:
 <ol>
