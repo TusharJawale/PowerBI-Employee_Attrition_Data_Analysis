@@ -1,6 +1,6 @@
 # PowerBI - Employee Attrition Data Analysis
 <br>
-<a href="kaggle datasets download -d rishikeshkonapure/hr-analytics-prediction">HR Analytics Dataset</a>
+HR Analytics Dataset - https://bit.ly/3TmtJnf
 <br>
 HR-Employee-Attrition.csv - contains the dataset 
 <br>
