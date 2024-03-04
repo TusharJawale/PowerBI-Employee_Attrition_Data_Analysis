@@ -1,4 +1,4 @@
-# Data Analysis Project: PowerBI - 1
+# PowerBI - Employee Attrition Data Analysis
 <br>
 <a href="kaggle datasets download -d rishikeshkonapure/hr-analytics-prediction">HR Analytics Dataset</a>
 <br>
